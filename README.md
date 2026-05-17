@@ -68,16 +68,6 @@ I enjoy:
 - 🦷 **ToothTrack** – Dental tracking system project
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UrbanoPrincess&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrbanoPrincess&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🤓 Fun Facts
 
 - 🐱 I have a grumpy cat who judges my coding decisions
