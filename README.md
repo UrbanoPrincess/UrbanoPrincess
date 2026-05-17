@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Princess Diane Rodriguez (@UrbanoPrincess)
+# Hi there 👋 I'm Princess Diane Rodriguez Urbano (@UrbanoPrincess)
 
 🚀 Automation QA Intern @ EasyPos Solutions Inc.  
 📍 Bataan, Philippines  
