@@ -77,4 +77,4 @@ I enjoy:
 
 ---
 
-⭐ *“Quality is not an act, it is a habit.”*
+*“Code is how I bring ideas to life.”*
