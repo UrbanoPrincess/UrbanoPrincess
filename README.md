@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Princess Diane Rodriguez Urbano (@UrbanoPrincess)
 
-💼 Software QA Tester @ EasyPOS Solutions Inc.
+💼 Junior Software QA Engineer @ EasyPOS Solutions Inc.
 🎓 BSIT Graduate
 📍 Bataan, Philippines
 
@@ -10,7 +10,7 @@ Passionate about software quality, automation, and building reliable web applica
 
 ## 🧑‍💻 About Me
 
-I'm a **Software QA Tester** with experience in both **manual and automation testing**. I enjoy validating web applications, creating reliable test cases, and improving software quality through functional, regression, API, and end-to-end testing.
+I'm a **Junior Software QA Engineer** with experience in both **manual and automation testing**. I enjoy validating web applications, creating reliable test cases, and improving software quality through functional, regression, API, and end-to-end testing.
 
 Outside of QA, I also enjoy building full-stack web applications using modern technologies like SvelteKit.
 
